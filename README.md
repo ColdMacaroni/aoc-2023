@@ -2,7 +2,9 @@
 
 Hi!! I'm doing AoC this year... for as long as I can. I want to do the challenge of using a different language each day.
 
-- [ ] Day 1 - [AWK](day1/README.md)
+Anything beyond this file will contain spoilers!!
+
+- [X] Day 1 - [AWK](day1/README.md)
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
