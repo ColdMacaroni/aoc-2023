@@ -15,7 +15,7 @@ Doesn't seem that difficult. Some gsubs will fix this right up.
 
 Wait no this is evil oml. OH MY GOD IT'S EVEN MORE EVIL.
 
-Can't substr...
+Can't sub()...
 
 ---
 
