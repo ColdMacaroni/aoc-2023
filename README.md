@@ -29,3 +29,32 @@ Anything beyond this file will contain spoilers!!
 - [ ] Day 23
 - [ ] Day 24
 - [ ] Day 25
+
+## Language pool
+
+- ~~AWK~~
+- Bash
+- C
+- Clojure
+- COBOL
+- Common Lisp
+- Crystal
+- D
+- Dart
+- Elixir
+- F#
+- Groovy
+- Haskell
+- Java
+- Julia
+- Lua
+- OCaml
+- Perl
+- PHP
+- Python
+- Raku
+- Rust (Not endorsed by the Rust foundation)
+- Smalltalk
+- Swift
+- Zig
+
