@@ -2,7 +2,6 @@
 power_sum=0
 
 parse() {
-    id="$(echo "$inp" | cut -d' ' -f2 | tr -d :)"
     declare -A mins
     for c in red blue green; do
         min_num="$(echo "$inp" | grep -o "[0-9]\+ $c" | cut -f1 -d' ' | sort -r -n | head -1)"
