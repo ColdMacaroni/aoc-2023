@@ -43,6 +43,8 @@ Anything beyond this file will contain spoilers!!
 - Dart
 - Elixir
 - F#
+- Forth
+- Go
 - Groovy
 - Haskell
 - Java
