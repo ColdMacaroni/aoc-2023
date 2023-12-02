@@ -1,7 +1,14 @@
-all: part1
+all: part1 part2
 
 part1: part1.bash input.txt
 	bash part1.bash < input.txt
 
-example1: part1.bash example1.txt
-	bash part1.bash < example1.txt
+part2: part2.bash input.txt
+	bash part2.bash < input.txt
+
+
+example1: part1.bash example.txt
+	bash part1.bash < example.txt
+
+example2: part2.bash example.txt
+	bash part2.bash < example.txt
