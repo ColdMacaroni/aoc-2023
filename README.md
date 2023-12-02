@@ -5,7 +5,7 @@ Hi!! I'm doing AoC this year... for as long as I can. I want to do the challenge
 Anything beyond this file will contain spoilers!!
 
 - [X] Day 1 - [AWK](day1/README.md)
-- [ ] Day 2 - [Bash](day2/README.md)
+- [X] Day 2 - [Bash](day2/README.md)
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
